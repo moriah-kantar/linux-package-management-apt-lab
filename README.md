@@ -4,7 +4,7 @@
 
 **Course:** Google Cybersecurity Professional Certificate
 
-**Completed:** September 2026
+**Completed:** October 2026
 
 **Project type:** Simulated Linux Package Management
 
