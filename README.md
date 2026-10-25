@@ -1,6 +1,14 @@
 # Linux Package Management with APT | Debian Lab
 
-## Project Overview
+**Author:** Moriah Kantar
+
+**Course:** Google Cybersecurity Professional Certificate
+
+**Completed:** September 2026
+
+**Project type:** Simulated Linux Package Management
+
+## Overview
 
 This hands-on Google Skills lab focused on managing software packages in a Debian Linux environment using the command-line interface (CLI) and the Advanced Package Tool (**APT**). I practiced installing, inspecting, removing, and reinstalling packages, while verifying changes to the system's software inventory.
 
